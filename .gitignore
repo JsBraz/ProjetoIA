@@ -1,0 +1,9 @@
+
+*.avi
+.idea
+.Youtube_Videos
+*.mp4
+.ipynb_checkpoints/TestCNN-checkpoint.ipynb
+.ipynb_checkpoints/Test-checkpoint.ipynb
+ProjetoIA.zip
+An Essential Guide to Numpy for Machine Learning in Python.pdf
